@@ -1,0 +1,24 @@
+---
+layout: default
+id: blog-archives
+title: Blog
+subtitle: Archives
+feed: /blog/atom.xml
+keywords: social networks media
+---
+
+{% include blog-navigation.html %}
+
+Archives
+========
+
+This is the complete archive of posts for this blog,
+in reverse chronological order.
+
+{% for post in site.categories.blog %}
+  <div class="section list">
+    <h1>{{ post.date | date_to_string }}</h1>
+    <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+    <p class="excerpt">{{ post.excerpt }}</p>
+  </div>
+{% endfor %}

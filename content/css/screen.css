@@ -1,0 +1,36 @@
+/* basic typography */
+
+body { 
+	font-size: 22px; 
+	font-family: palatino, georgia, serif;
+	line-height: 1.25em;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: helvetica, sans-serif;
+}
+
+h1.site.title { 
+	font-family: palatino, georgia, serif;
+	font-size: 400%;
+	letter-spacing: 5%;
+}
+
+ul.navigation { 
+	float: right;
+}
+
+div#page {
+	width: 46em;
+	margin: auto;
+}
+
+div.sidebar { 
+	float: right;
+}
+
+div.inset { float: right; margin-left: 10px; margin-bottom: 10px; padding: 10px; border: 1px solid gray; }
+
+div.inset img { width: 400px }
+
+div.inset p { font-family: tahoma, san-serif; font-size: 14px; font-weight: bold; margin: 0; padding: 0 }

@@ -1,0 +1,105 @@
+---
+title: The Death Ray And The Lean Startup
+
+excerpt: When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture.
+
+layout: blog-post
+
+---
+_Originally posted at_ "borderstylo.com":http://borderstylo.com/posts/188-the-death-ray-and-the-lean-startup.
+
+<div class='inset'>
+!/images/death_ray.jpg!
+</div>
+
+When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture. Now, this was during the "dot-bomb" era, and so raising money was supposed to be easy. We also had an increasingly vocal contingent of curmudgeons, wondering why we couldn't just earn our money like everyone else, with hard work and everyday construction materials. We were pioneers, forging a new economy from bits and bytes and assembling entire companies by applying mass production to "value chains" where "capital formation" was no different than tightening bolts on a combustion engine! 
+
+Later, we discovered this was all part of a collective neurosis, much like the one that gripped the mortgage industry a few years later. And like most such Jungian fantasies, it ended tragically for most of us, although a few people cashed out in time to become very, very rich. (Still later, we would discover that we'd actually been right the entire time, when Web 2.0 would sweep most of us back into this brave new world again, but that's another story, or blog post.)
+
+h2. Backlash
+
+A certain percentage of these newly disillusioned entrepreneurs decided that the curmudgeons had been at least "half-right":http://www.openforum.com/idea-hub/topics/the-world/article/why-too-much-money-is-worse-than-too-little-guy-kawasaki. Surely we didn't need investors to start companies! We could just save our pennies and take out a second mortgage on the house and perhaps teach our kids HTML and CSS and _voila!_, one day we could strike out on our own! 
+
+No more spending all our time raising money and worrying about having to give up a controlling stake to some "evil venture capitalist":http://www.businessinsider.com/why-the-37signals-guys-are-wrong-2010-4 hell-bent on turning our beautiful start-up into a "enterprise" software company, so that we'd wake up one day and find ourselves in a cube, wearing a white shirt and khakis, working for IBM, and using Microsoft Windows. (It's a recurring nightmare of mine.) The backlash reached a peak - the "lean startup":http://leanstartup.pbworks.com/ was the beginning of a new utopia, where we were all our own bosses, and where VCs would have to come begging to _entrepreneurs_ to convince them to take their money. And guess what? We wouldn't take it! Not "_ever_":http://37signals.com/svn/posts/60-learning-from-mistakes-friendster-etc! Because we'd be happy with "our cozy little companies just as they were":http://www.startable.com/2008/09/26/dont-raise-venture-capital/. We were happy creating neighborhood coffee shops, we didn't need to be Starbucks! 
+
+That was what had gone wrong with Web 1.0 to begin with - everyone got too greedy. This version of the new economy said that _everyone_ was an entrepreneur and, instead of the assembly-line, we had crafts- uh, people - and apprentices, just like in the pre-industrial revolution days. There was a beautiful symmetry to it: everything old was new again. Yay!
+
+h2. A Frustrated Comedian
+
+As I said, I had become frustrated trying to raise money, even back when it was supposed to have been easy. I didn't realize it at the time, of course, but it was a measure of exactly _how_ easy it was that I had actually been able to raise any money at all. Although I had been a part of several startups by that time, and even founded a couple of companies myself, I didn't have any runaway success stories that suggested _I_ was the guy you wanted to entrust with a few million bucks and say, "Go make me some _real_ money, son!" 
+
+Not only that, my only real experience was with programming. I knew next to nothing about business plans, marketing, or finance. But it was easy back then to get awfully confused about these things, since, almost from the moment I announced I was starting my own company, everyone seemed to take it as a foregone conclusion that I was soon going to be very, very rich. (<em>Sigh.</em> Those were the days.) 
+
+Not only that, but I was, in fact, actually able to raise a few million bucks. Still, it was an arduous process, and I was constantly being asked about pesky details like the size of my "target market" and what "pain points" we were addressing for our customers. These details seemed to me to be beside the point entirely, serving no purpose other than obscuring my "vision." And so I concocted a spoof to demonstrate my point, which, if I was given enough to drink, I would happily perform in the best one-man-show tradition.
+
+h3. The Death Ray Skit
+
+*VC*: So, tell me about your proposed venture?
+
+*Entrepreneur* (<em>pleased with himself</em>): Well ... I've invented a death ray!
+
+*VC*: A death ray?
+
+*E*: Yes! A death ray.
+
+*VC*: Very nice! Can you tell me, who is your target market?
+
+*E* (<em>taken aback</em>): Uh, I don't know. I mean ... it's a death ray.
+
+*VC*: Right, but what is your value proposition?
+
+*E*: That it's a death ray?
+
+*VC* (<em>forcing a smile</em>): I see. What price point are you going to sell it at?
+
+*E*: I have no idea. A lot?
+
+*VC*: Let me get this straight. You don't know the size of the market. You don't know how much you can sell this for. How can you ensure that we will see a return on our investment?
+
+*E* (<em>exasperated</em>): Because it's a $@#!% _death ray_!
+
+*VC* (<em>bored, escorting <b>E</b> to the door</em>): You said that already. Listen, don't call us, we'll call you. Have a wonderful day.
+
+h2. Enter Nicholas Effing Tesla
+
+What I didn't realize was that _this actually happened_. And to no less than Nicholas Effing Tesla, one of the honorary demigods of Geekdom, and the namesake of Telsa Motors. "Tesla actually claimed to have invented a death ray":http://tfcbooks.com/teslafaq/q&a_011.htm, and that it would cost him only $2M to build it. He apparently pitched it to JP Morgan, among others. In fact, "there is a fascinating letter from Tesla to Westinghouse":http://gizmodo.com/5587182/why-teslas-death-ray-was-never-made that sounds like a follow-up to a failed investment pitch. You know it's rough out there when Nicholas Effing Tesla, the guy who basically harnessed electricity for everyday use, can't raise a buck for a death ray. And the best part? This was in the _years leading up to World War II_!
+
+<div class='inset'>
+!https://wiki.borderstylo.com/attachments/3379/blue-tesla-roadster.jpg!
+
+<p class='caption'>You know you're awesome when they name stuff<br/> after you _just because it's awesome_.</p>
+</div>
+
+h2. Delusions Of Grandeur
+
+So the backlash against raising money is understandable. But it _also_ turns out that some of our _new_ new economy assumptions were _also_ flawed. It turned out, for example, that, no, not _everyone_ is cut out to be an entrepreneur. And it's not always a good idea to risk your life savings or, worse, go into heavy debt, to finance a startup yourself, particularly with little regard to what kind of return you're going to get. And not _every_ child wants to learn HTML and CSS - strangely, _some_ children prefer to ride their bikes or VC with their friends (to them, "VC" means video chat, not venture capital or Viet Cong). I don't know why.
+
+A startup is still, no matter how you slice it, a highly speculative venture. If you're extremely wealthy, this is perfect, because, according to your basic portfolio theory, you want some part of your investments in high-risk/high-yield investments. These sorts of folks will _not_ be telling their children that college is out of their price range if those investments don't pan out.
+
+Which reminds me of a story. (<b>Ed:</b> _Groan_.) A friend of mine was making serious money for the first time in his career and so he went out and bought an expensive sports car. He also bought a nice house and a boat. He started day trading. I sort of envied him, because I was busy sinking all my money into my new startup - the same one that would later crash and burn horribly, along with the NASDAQ - so I was constantly broke and couldn't afford things like fancy new cars or day trading. 
+
+For awhile, we _both_ looked like we were doing alright. He was making a _killing_ on tech stocks and I had raised enough cash to have a real startup in the hottest IPO market in history. When the market crashed, I, of course, was wiped out. But, much to my surprise, so was my friend. You see, we were both playing a game meant for the rich. 
+
+In his case, after the car, the boat, the house, and the day trading, it turned out he was flat broke. He'd seen people with _real_ money do those things, and he emulated them. Only he didn't have that kind of money. For him, that car, that boat, that house, his stock portfolio, these things stretched him to the limit. And beyond. He ended up selling all but the car to pay down the debt he'd incurred. 
+
+But the real point is, _I had been doing the same thing._ I didn't have the money to start a company! What was I _thinking_?
+
+h2. I Hate You, Red Herring
+
+Of course, I did it again later, even after spending years advising every budding entrepreneur I met, "never invest your own money!" But the thing is, it's gotten to the point that you're almost supposed to feel embarrassed if you actually go out and spend other people's money to build your company. The Horatio Alger startup story probably inspires dozens of entrepreneurs to do stupid things every year, and yet we never seem to learn better, because there's always another generation of PR-driven success stories to keep the myth alive. 
+
+The _truth_ is none of us succeeds alone and very little of merit is ever _truly_ accomplished by just one person by themselves. The _truth_ is that it is difficult to create a viable business, _even when you don't have to worry about how you're going to pay your bills_. Some folks have trust funds, some live in their parents basement, some have husbands or wives who support them, some have invested wisely - and some have angel investors. It's going to be a lot of hard work and long hours, either way. "Anyone who says otherwise":http://37signals.com/svn/posts/902-fire-the-workaholics is either lucky or lying.
+
+h2. Growing Up
+
+And maybe, just _maybe_, the investors have a real and valuable role to play in the startup world. There's no question investors and entrepreneurs often come at the problem of starting companies from completely different places. But I'll address that in a future post. For now, suffice to say that one of the things I love about Border Stylo is that, not only do we have founders who are the salt of the earth, and the talent base to accomplish whatever we set our minds to, but we have a strong financial foundation, backed by investors who are committed to our vision. 
+
+This isn't a "bad thing":http://bhorowitz.com/2010/03/17/the-case-for-the-fat-startup/, and I find it sort of amazing that I would actually have to defend it. But I know I do. Because I know there are some people who are going to read this and say, ah, but you won't be as hungry, you won't be as lean, you won't "listen closely enough to your customers":http://coconutheadsets.com/2009/11/28/the-dark-side-of-customer-development-and-lean-startups/, yada, yada, yada. Well, hooey. You can run lean and still have money in the bank. It's okay. In fact, I'd argue it's awesome. 
+
+I can go through the "lean startup" checklist and we would qualify easily. (We _do_ use Microsoft Office, for some reason, but I'm working on that.) But we also have "awesome customer support":http://twitter.com/mcschoon/status/18687376859 and a "real, honest-to-goodness community manager":http://twitter.com/writeonglass - and thus a burgeoning community that is the foundation of our brand - and we can actually tackle "significant technical hurdles":http://borderstylo.com/posts/177-adding-nodes-to-the-dom-with-style that cash-starved companies can't take on. 
+
+And I'll bet every successful start either had these things, too, or there was some reason why they _didn't need them_, some indirect substitute for them. (That's kind of an involved topic all by itself. Perhaps I'll go through some examples of this sort of thing in a future post as well.) There's a reason the vast majority of really successful startups raised lots of money. And even if you're just trying to create a "lifestyle" startup to replace a regular salary, the reality is that the cause of most business failures is inadequate cash flow.
+
+So, while raising money can be frustrating, there's also nothing wrong in being able to defend your business model and take criticism and learn from other perspectives. I think what is often really lacking is simply humility. Letting go. Learning from mistakes. Accepting that your way isn't the only way, and there might be lots of people with the same "vision" that you have. And that you're probably going to need all the help you can get if you want to be successful in the long run.
+
+On the other hand, if you happen to have invented a death ray ...
