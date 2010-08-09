@@ -2,7 +2,7 @@
 title: The Death Ray And The Lean Startup
 
 excerpt: When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture.
-
+published: 2010-07-28
 layout: blog-post
 
 ---

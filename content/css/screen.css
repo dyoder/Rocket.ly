@@ -8,6 +8,7 @@ body {
 
 h1, h2, h3, h4, h5 {
 	font-family: helvetica, sans-serif;
+	line-height: 1.15em;
 }
 
 h1.site.title { 
@@ -26,7 +27,14 @@ div#page {
 }
 
 div.sidebar { 
+	font-size: 16px;
+	font-family: helvetica, sans-serif;
+	line-height: 1.15em;
 	float: right;
+	width: 12em;
+	padding-left: 1.5em;
+	margin-left: 1.5em;
+	border-left: 1px solid silver;
 }
 
 div.inset { float: right; margin-left: 10px; margin-bottom: 10px; padding: 10px; border: 1px solid gray; }

@@ -1,10 +1,8 @@
 ---
 title: "Geek Chic: Art Meets Technology At TEDx"
-
 excerpt: I've been meaning all week to blog about TEDx at USC.
-
 layout: blog-post
-
+published: 2009-03-29
 ---
 I've been meaning all week to blog about "TEDx at USC":tedx because my mind was really buzzing afterwards. But, instead, I let the grind of the week get in the way. And it was an ugly grind, the kind that makes you wonder, _what am I doing with my life?_ And looking all the worse for following on the heels of all the hope and possibility celebrated by TED. So now I can't quite recall what it was that I was so excited about in the first place. But I'll try anyway and hopefully it'll be cathartic.
   

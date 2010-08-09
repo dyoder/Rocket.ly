@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<%= site.include('blog-navigation.html') %>
+<%= page.include('blog-navigation') %>
 
 <div class="post">
 	
@@ -10,7 +10,7 @@ layout: default
 
   <address>
     <a class="author" href="http://rocket.ly">Dan Yoder</a> 
-    <span class="date">{{ page.date | date_to_long_string }}</span>
+    <span class="date"><%= page.published %></span>
   </address>
 
   <%= content %>

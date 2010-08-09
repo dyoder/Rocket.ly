@@ -1,0 +1,12 @@
+[![Feed icon](/images/feed-icon-14x14.png) Atom feed][feed] for recent posts.
+
+<% site.content.blog.posts.pages.select(&:published?)[0..4].sort_by(&:published).reverse.each do |post| %>
++-- {.post}
+<h2><a class="title" href="<%= post.url %>"><%= post.title %></a></h2>
+<strong><%= post.published %></strong>
+<p class="excerpt"><%= post.excerpt %></p>
+=--
+<% end %>
+
+[feed]: /blog/atom.xml
+

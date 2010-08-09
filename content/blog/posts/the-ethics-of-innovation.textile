@@ -1,10 +1,8 @@
 ---
 title: The Ethics Of Innovation
-
 excerpt: I grew up in Detroit, but I've got no love for American automakers.
-
 layout: blog-post
-
+published: 2009-03-21
 ---
 I grew up in Detroit, but I've got no love for American automakers. I think bailing them out is a waste of money. I want them to die and for Detroit to move on and find an industry who treats them better. Like Eminem, for example.
   

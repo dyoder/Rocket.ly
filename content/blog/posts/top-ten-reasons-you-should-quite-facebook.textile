@@ -1,10 +1,8 @@
 ---
 title: Top Ten Reasons You Should Quit Facebook
-
 excerpt: After some reflection, I've decided to delete my account on Facebook. 
-
 layout: blog-post
-
+published: 2010-04-26
 ---
 <div class='inset right'><img src="/images/ban_facebook.png" alt="Ban Facebook"/><p>Let's all ban Facebook!</p></div>
 
