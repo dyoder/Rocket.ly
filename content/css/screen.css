@@ -1,40 +1,75 @@
+/* @override http://localhost/css/screen.css */
+
 /* basic typography */
 
 body { 
 	font-size: 22px; 
 	font-family: palatino, georgia, serif;
-	line-height: 1.25em;
+	line-height: 1.5em;
+	color: #444;
 }
 
 h1, h2, h3, h4, h5 {
 	font-family: helvetica, sans-serif;
 	line-height: 1.15em;
+	color: #222;
 }
 
 h1.site.title { 
 	font-family: palatino, georgia, serif;
-	font-size: 400%;
-	letter-spacing: 5%;
+	font-size: 450%;
+	letter-spacing: 2px;
+	color:  #113;
+}
+
+a, a:visited, a:hover {
+	text-decoration: none;
+	color: #494;
 }
 
 ul.navigation { 
 	float: right;
+	position:absolute;
+	top: 3.25em;
+	left: 51em;
+	background-color: #113;
+	padding: 0.75em; margin: 0;
+	border-radius: 8px;
+}
+ul.navigation li {
+	float: left;
+	list-style: none;
+	padding: 0;
+	padding: 0 1em;
+	margin: 0;
+	color: white;
+	font-family: helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+ul.navigation li a, ul.navigation li a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+ul.navigation li a:hover {
+	color: #ded;
 }
 
 div#page {
-	width: 46em;
+	width: 48em;
 	margin: auto;
 }
 
-div.sidebar { 
-	font-size: 16px;
-	font-family: helvetica, sans-serif;
-	line-height: 1.15em;
+div.sidebar {
 	float: right;
-	width: 12em;
+	width: 25em;
 	padding-left: 1.5em;
 	margin-left: 1.5em;
 	border-left: 1px solid silver;
+	font: 14px/1.2em Helvetica, sans-serif;
 }
 
 div.inset { float: right; margin-left: 10px; margin-bottom: 10px; padding: 10px; border: 1px solid gray; }
@@ -42,3 +77,9 @@ div.inset { float: right; margin-left: 10px; margin-bottom: 10px; padding: 10px;
 div.inset img { width: 400px }
 
 div.inset p { font-family: tahoma, san-serif; font-size: 14px; font-weight: bold; margin: 0; padding: 0 }
+
+div.avatar {
+	float: right;
+	padding: 0; margin: 0;
+	margin-left: 1em;
+}

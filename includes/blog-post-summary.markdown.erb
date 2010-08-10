@@ -2,9 +2,9 @@
 
 <% site.content.blog.posts.pages.select(&:published?)[0..4].sort_by(&:published).reverse.each do |post| %>
 +-- {.post}
-<h2><a class="title" href="<%= post.url %>"><%= post.title %></a></h2>
+<h2><%= post.title %></h2>
 <strong><%= post.published %></strong>
-<p class="excerpt"><%= post.excerpt %></p>
+<p class="excerpt"><%= post.excerpt %> <a class="title" href="<%= post.url %>">Read more ...</a></p>
 =--
 <% end %>
 

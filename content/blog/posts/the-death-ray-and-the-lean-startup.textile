@@ -65,7 +65,7 @@ h2. Enter Nicholas Effing Tesla
 What I didn't realize was that _this actually happened_. And to no less than Nicholas Effing Tesla, one of the honorary demigods of Geekdom, and the namesake of Telsa Motors. "Tesla actually claimed to have invented a death ray":http://tfcbooks.com/teslafaq/q&a_011.htm, and that it would cost him only $2M to build it. He apparently pitched it to JP Morgan, among others. In fact, "there is a fascinating letter from Tesla to Westinghouse":http://gizmodo.com/5587182/why-teslas-death-ray-was-never-made that sounds like a follow-up to a failed investment pitch. You know it's rough out there when Nicholas Effing Tesla, the guy who basically harnessed electricity for everyday use, can't raise a buck for a death ray. And the best part? This was in the _years leading up to World War II_!
 
 <div class='inset'>
-!https://wiki.borderstylo.com/attachments/3379/blue-tesla-roadster.jpg!
+!/images/blue-tesla-roadster.jpg!
 
 <p class='caption'>You know you're awesome when they name stuff<br/> after you _just because it's awesome_.</p>
 </div>
