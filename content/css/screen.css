@@ -5,8 +5,30 @@
 body { 
 	font-size: 22px; 
 	font-family: palatino, georgia, serif;
-	line-height: 1.5em;
 	color: #444;
+	background: #fafafc;
+	line-height: 1.5em;
+}
+
+#page {
+	width: 48em;
+	margin: auto;
+	padding-top: 2em;
+}
+
+div.sidebar {
+	float: right;
+	width: 21em;
+	padding-left: 2.5em;
+	margin-left: 2.5em;
+	border-left: 1px solid silver;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+p, h1,h2,h3,h4,h5 {
+	margin-top: 0;
+	margin-bottom: 1em;
 }
 
 h1, h2, h3, h4, h5 {
@@ -14,12 +36,43 @@ h1, h2, h3, h4, h5 {
 	line-height: 1.15em;
 	color: #222;
 }
+h1 {
+	font-size: 2.5em;
+	margin-bottom: 0.5em;
+}
+h2 {
+	font-size: 1.5em;
+}
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+}
+h4 {
+	font-size: 1em;
+}
 
 h1.site.title { 
 	font-family: palatino, georgia, serif;
-	font-size: 450%;
-	letter-spacing: 2px;
-	color:  #113;
+	font-size: 4.5em;
+	letter-spacing: 0.05em;
+	color:  #111;
+	margin-bottom: 0;
+}
+
+div.section{
+	padding-bottom: 1em;
+	border-bottom: 2px solid silver;
+	margin-bottom: 2em;
+}
+
+#blog-archives div.posts {
+	margin-top: 2em;
+	padding-top: 2em;
+	border-top:  2px silver solid;
+}
+
+p.subtitle {
+	margin-bottom: 5em;
 }
 
 a, a:visited, a:hover {
@@ -30,9 +83,9 @@ a, a:visited, a:hover {
 ul.navigation { 
 	float: right;
 	position:absolute;
-	top: 3.25em;
+	top: 4.5em;
 	left: 51em;
-	background-color: #113;
+	background-color: #111;
 	padding: 0.75em; margin: 0;
 	border-radius: 8px;
 }
@@ -57,29 +110,81 @@ ul.navigation li a, ul.navigation li a:visited {
 ul.navigation li a:hover {
 	color: #ded;
 }
-
-div#page {
-	width: 48em;
-	margin: auto;
+p.byline {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	margin-top: -1.5em;
+}
+p.byline span.author {
+	 font-weight: bold;
 }
 
-div.sidebar {
-	float: right;
-	width: 25em;
-	padding-left: 1.5em;
-	margin-left: 1.5em;
-	border-left: 1px solid silver;
-	font: 14px/1.2em Helvetica, sans-serif;
+div.excerpt {
+	margin-bottom: 1.5em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid silver;
+}
+div.sidebar div.excerpt {
+	font-size: 15px;
+	font-style:  italic;
+	line-height: 1.4em;
+}
+div.inset { 
+	float: right; 
+	margin-left: 1em; 
+	margin-bottom: 1em; 
+	padding: 0.5em; 
+	border: 1px solid gray; 
+	width: 18em;
 }
 
-div.inset { float: right; margin-left: 10px; margin-bottom: 10px; padding: 10px; border: 1px solid gray; }
+div.inset img {
+	margin: 0; padding: 0;
+	width: 18em;
+}
 
-div.inset img { width: 400px }
+div.inset p.caption { 
+	font-size: 14px;
+	font-family: helvetica, san-serif; 
+	font-weight: bold; 
+	margin: 0; padding: 0 ;
+	line-height: 1.5em;
+}
 
-div.inset p { font-family: tahoma, san-serif; font-size: 14px; font-weight: bold; margin: 0; padding: 0 }
+div#blog-archives div.inset {
+	width: 12em;
+}
+div#blog-archives p.caption {
+	display: none;
+}
+
+div#blog-archives div.inset img {
+	width: 12em;
+}
 
 div.avatar {
 	float: right;
-	padding: 0; margin: 0;
-	margin-left: 1em;
+}
+
+div.avatar p {
+	 margin: 0;
+}
+div.avatar img {
+	padding: 0.25em; margin-left: 1em;
+	border:  1px solid #333;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+div#footer {
+	margin-top: 3em;
+	font-size: 14px;
+	font-family: helvetica, sans-serif;
+	line-height: 1em;
 }

@@ -1,10 +1,13 @@
-[![Feed icon](/images/feed-icon-14x14.png) Atom feed][feed] for recent posts.
+[![Feed icon](/images/feed-icon-14x14.png) Subscribe!][feed]
 
 <% site.content.blog.posts.pages.select(&:published?)[0..4].sort_by(&:published).reverse.each do |post| %>
 +-- {.post}
 <h2><%= post.title %></h2>
-<strong><%= post.published %></strong>
-<p class="excerpt"><%= post.excerpt %> <a class="title" href="<%= post.url %>">Read more ...</a></p>
+<p class='byline'>
+  <span class='author'><%= post.author %></span>
+  <span class='published'><%= post.published.strftime("%b %d, %Y") %></span>
+</p>
+<div class="excerpt"><p><%= post.excerpt %> <a class="title" href="<%= post.url %>">Read more ...</a></p></div>
 =--
 <% end %>
 

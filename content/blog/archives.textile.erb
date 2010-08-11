@@ -1,0 +1,29 @@
+---
+layout: default
+id: blog-archives
+title: Blog Archives
+published: 2009-01-01
+subtitle: Archives
+feed: /blog/atom.xml
+keywords: social networks media
+---
+
+h1. Archives
+
+This is the complete archive of posts for this blog, most recent first.
+
+<div class="posts">
+  <% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).reverse.each do |post| %>
+  <div class="post">
+    <h2><%= post.title %></h2>
+    <p class='byline'>
+      <span class='author'><%= post.author %></span>
+      <span class='published'><%= post.published.strftime("%b %d, %Y") %></span>
+    </p>
+    <div class="excerpt">
+      <%= post.excerpt %> 
+      <p><a class="title" href="<%= post.url %>">Read more ...</a></p>
+    </div>
+  </div>
+<% end %>
+</div>
