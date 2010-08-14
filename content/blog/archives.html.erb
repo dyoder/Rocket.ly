@@ -7,11 +7,12 @@ subtitle: Archives
 feed: /blog/atom.xml
 keywords: social networks media
 ---
-
-h1. Archives
-
-This is the complete archive of posts for this blog, most recent first.
-
+<ul class='navigation'>
+  <li><a href="/">Home</a></li>
+  <li><a href='/blog/atom.xml'><img src='/images/feed-icon-14x14.png'>&nbsp;Feed</a></li>
+</ul>
+<h1>Archives</h1>
+<p>This is the complete archive of posts for this blog, most recent first.</p>
 <div class="posts">
   <% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).reverse.each do |post| %>
   <div class="post">

@@ -1,0 +1,13 @@
+<% site.content.blog.posts.pages.select(&:published?)[0..4].sort_by(&:published).reverse.each do |post| %>
+  <div class="post">
+    <h2><%= post.title %></h2>
+    <p class='byline'>
+      <span class='author'><%= post.author %></span>
+      <span class='published'><%= post.published.strftime("%b %d, %Y") %></span>
+    </p>
+    <div class="excerpt">
+      <%= post.excerpt %><p><a class="title" href="<%= post.url %>">Read more &#8230;</a></p>
+    </div>
+  </div>
+<% end %>
+

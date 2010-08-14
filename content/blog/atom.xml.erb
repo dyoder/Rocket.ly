@@ -4,21 +4,21 @@
  <title>Rocket.ly</title>
  <link href="http://rocket.ly/blog/atom.xml" rel="self"/>
  <link href="http:/rocket.ly/blog/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://rocket.ly/blog</id>
+ <updated><%= DateTime.now.strftime %></updated>
+ <id>http://rocket.ly/</id>
  <author>
    <name>Dan Yoder</name>
    <email>dan@zeraweb.com</email>
  </author>
  
- {% for post in site.categories.blog limit:5 %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://rocket.ly{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>id:{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
+ <% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).reverse.each do |post| %>
+  <entry>
+    <title><%= page.title %></title>
+    <link href="<%= post.url %>"/>
+    <updated><%= post.published.strftime %></updated>
+    <id>id:<%= post.identifier %></id>
+    <content type="text/html"><%= post.content %></content>
+  </entry>
+ <% end %>
  
 </feed>
