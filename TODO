@@ -1,7 +1,3 @@
-- Fix the CSS for lists, which was wiped out by the CSS reset.
-
-- Add a layout for normal pages (like the open-source page or the Waves page).
-
 - Generate symlinks from the "original" squarespace URL paths to the current URLs. This can be done just by literally symlinking them in the content tree.
 
 Ex:
@@ -10,16 +6,6 @@ http://www.rocket.ly/home/2010/7/28/the-death-ray-and-the-lean-startup.html
 
 no longer has the date in the URL.
 
-- In other cases, it's trickier because there is no ".html"
+- Configure server to look for ".html" files when there is no extension (Apache does that by default)
 
-Ex: 
-
-http://www.rocket.ly/waves
-
-for some reason has not ".html" extension. One possibility here is to autogenerate symlinks, but that will cause problems if a directory and a story have the same name. Another would be to make it an option that you set in the meta-data (ex: extension: "").
-
-What is weird is that the URL for waves (without the extension) is working fine, while the one for open-source projects requires the extension!? (Okay, maybe not. It was working, but now it is not ... ?)
-
-- There needs to be a way to signal 301s and 302s. I suppose that could just be done using the nginx config, but then we lose the self-containment.
-
-- I need to make sure everything gets stamped with the right caching headers. I guess in the end this just has to be done with the Web server config.
+- Make sure everything gets stamped with the right caching headers.

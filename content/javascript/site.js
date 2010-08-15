@@ -1,7 +1,13 @@
 $(document).ready( function() {
+	addNavigation();
 	addTwitterUpdates();
 	addSearch();
 });
+
+var addNavigation = function() {
+	var navigation = $('#navigation');
+	navigation.detach().prependTo("#header").css({"float": "right", "margin-right": "1em", "margin-top": "2.5em"});
+}
 
 var showTweets = function (tweets) {
 	var e = $('#twitter');

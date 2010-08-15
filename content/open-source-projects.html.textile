@@ -1,7 +1,7 @@
 ---
 title: Open Source Projects
 published: 2009-01-01
-layout: default
+layout: page
 keywords: ruby javascript open-source
 ---
 Over the years, I've written numerous open source libraries. The main ones are:

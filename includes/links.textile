@@ -1,0 +1,11 @@
+<div class='section'>
+h1. Other Links
+
+Might I interest you in ...
+
+* My absurdly popular "Top Ten Reasons You Should Quit Facebook":/blog/posts/top-ten-reasons-you-should-quit-facebook post?
+
+* The humble, yet entirely official "Waves home page":/waves?
+
+* Information on my other "open-source software projects":/open-source-projects?
+</div>

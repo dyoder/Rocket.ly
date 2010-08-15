@@ -1,7 +1,7 @@
 ---
 title: Waves
 published: 2009-01-01
-layout: default
+layout: page
 keywords: ruby waves open-source frameworks web applications architecture
 ---
 h2. What Is Waves?
@@ -14,18 +14,15 @@ Waves helps you meet these challenges by providing a rich DSL for dealing with H
 
 h2. Is Waves Under Active Development?
 
-Yes. Development has been slow recently but should pick up soon.
+Yes. Waves is in active use at AT&amp;T (or at least it _was_ last I spoke to anyone about it, which, at this writing was mid-summer, '10) and, of course, at "Border Stylo":http://borderstylo.com.
+
+That said, Waves is turning out to be a precursor to an even more REST-friendly framework that we have yet to announce.
 
 h2.  Try It Out
 
 Waves is currently at version @0.9.3@. (You'll need "gemcutter":gemcutter.)
 
-<pre>
-sudo gem install waves
-waves generate -t classic -n myapp
-cd myapp
-waves server
-</pre>
+<script src="http://gist.github.com/524956.js?file=gistfile1.sh"></script>
 
 h2. On The Web
 
