@@ -2,6 +2,8 @@ $(document).ready( function() {
 	addNavigation();
 	addTwitterUpdates();
 	addSearch();
+	setMinHeight();
+	$(window).resize(setMinHeight);
 });
 
 var addNavigation = function() {
@@ -30,4 +32,8 @@ var addSearch = function() {
 			$('div.search a').click();
 		}
 	});
+};
+
+var setMinHeight = function() {
+	$('body').css({ "min-height": window.innerHeight.toString() + "px" })
 }

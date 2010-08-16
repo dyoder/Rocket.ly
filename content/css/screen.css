@@ -13,6 +13,7 @@ div.sidebar h3,div.sidebar h3{font-size:0.75em;}
 h4{font-size:1em;}
 li{list-style-type:square;list-style-position:outside;margin-left:1em;margin-bottom:0.5em;}
 h1.site.title{font-family:palatino,georgia,serif;font-size:4.5em;letter-spacing:0.05em;color:#111;}
+img.site.banner{font-size:4.5em;margin-bottom: 0.5em;}
 div.section{padding-bottom:1em;margin-bottom:2em;}
 div.section:last-child{margin-bottom:1em;}
 #blog-archives div.posts{margin-top:2em;padding-top:2em;border-top:2px silver solid;}

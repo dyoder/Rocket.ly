@@ -24,6 +24,7 @@
      
      <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
      <script type='text/javascript' src='/javascript/site.js'></script>
+     <%= page.include 'google-analytics' %>
      
   </head>
 
@@ -31,8 +32,11 @@
     <div id="page">
       
       <div id="header">
+        <a href="/"><img class='site banner' src='/images/banner.png'/></a>
+        <!-- 
         <h1 class="site title"><%= site.title %></h1>
         <p class='subtitle'><%= site.subtitle %></p>
+        -->
       </div>
 
       <div class="content <%=page.name%>" id="<%=page.identifier%>">
@@ -47,8 +51,6 @@
               Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. The name &ldquo;rocket.ly&rdquo; was Maia's idea. :-)</p>      
       </div>
     </div>
-
-    <%# page.include 'disqus-comment-support' %>
 
   </body>
 
