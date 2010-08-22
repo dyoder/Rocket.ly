@@ -3,7 +3,11 @@ title: Facebook Is The New AOL
 subtitle: And Equally Doomed
 author: Dan Yoder
 excerpt: |-
-  TBD
+  <div class='inset'>
+    <a href='http://therapysessions.blogspot.com/AOL%20CD.jpg'><img src='/images/aol-cds.jpg'/></a>
+    <p class='caption'>Those CDs made handy compacts for the ladies.</p>
+  </div>
+  Facebook "has already lost literally millions of us":facebook-dropoff around the world. "Millions more would leave":everyone-hates-facebook except that, at the moment, Facebook provides features they can't get anywhere else. As soon as there are decent alternatives, they will leave. Facebook, like MySpace and AOL and many others, will surely hang around for years after that point, but they'll be irrelevant.
 published: 2010-08-19
 layout: blog-post
 ---
