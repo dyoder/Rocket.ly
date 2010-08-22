@@ -6,11 +6,15 @@ layout: default
 
 <div class="post">
 	
-  <h1><%= page.title %></h1>
-
+  <h1 class='title'><%= page.title %></h1>
+  
+  <% unless page.subtitle.nil? %>
+    <h2 class='subtitle'><%= page.subtitle %></h2>
+  <% end %>
+  
   <p class='byline'>
     <span class="author"><%= page.author %></span> 
-    <span class="published"><%= page.published %></span>
+    <span class="published"><%= page.published.strftime("%b %d, %Y") %></span>
   </p>
 
   <%= content %>
