@@ -37,8 +37,8 @@ div.excerpt div.inset img{width:10em;}
 div.avatar{float:right;}
 div.avatar p{margin:0;}
 div.avatar img{padding:0.25em;margin-left:1em;border:1px solid #333;}
-strong{font-weight:bold;}
-em{font-style:italic;}
+strong{font-weight:bold; font-style:inherit;}
+em{font-style:italic; font-weight:inherit;}
 div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-height:1em;}
 #twitter p{font-style:italic;}
 div.search input{border-radius:8px;margin-left:10px;padding:6px;border:1px solid silver;font-family:helvetica,sans-serif;font-size:18px;width:140px;font-weight:bold;}
