@@ -80,7 +80,7 @@ And _that_ is the last thing I'm going to say about Facebook. I had never intend
 [cool-kids]http://mashable.com/2010/05/14/quit-facebook/
 [myspace-100m]http://mashable.com/2006/08/09/myspace-hits-100-million-accounts/
 [diaspora]http://www.joindiaspora.com/
-[diaspora-kickstart]http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr
+[diaspora-kickstarter]http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr
 [pip-io]http://pip.io/
 [hibe]http://hibe.com/
 [follow-up-post]/blog/posts/why-you-should-still-quit-facebook
