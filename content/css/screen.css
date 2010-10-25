@@ -36,7 +36,7 @@ div.excerpt p.caption{display:none;}
 div.excerpt div.inset img{width:10em;}
 div.avatar{float:right;}
 div.avatar p{margin:0;}
-div.avatar img{padding:0.25em;margin-left:1em;border:1px solid #333;}
+div.avatar img{padding:0.25em;margin-left:1em;border:1px solid #333;height:80px;width:80px;}
 strong{font-weight:bold; font-style:inherit;}
 em{font-style:italic; font-weight:inherit;}
 div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-height:1em;}
