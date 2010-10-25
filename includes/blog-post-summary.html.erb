@@ -1,4 +1,4 @@
-<% site.content.blog.posts.pages.select(&:published?)[0..4].sort_by(&:published).reverse.each do |post| %>
+<% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).reverse[0..4].each do |post| %>
   <div class="post">
     <h2><%= post.title %></h2>
     <p class='byline'>
