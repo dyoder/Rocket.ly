@@ -18,9 +18,7 @@
     <link href="<%= post.url %>"/>
     <updated><%= post.published.strftime %>T00:00:00-04:00</updated>
     <id><%= post.identifier %></id>
-    <content type="html"><%= 
-      require 'base64'; Base64.encode64(post.content) 
-    %></content>
+    <content type="html"><![CDATA[><%= post.content %>]]></content>
   </entry>
  <% end %>
  
