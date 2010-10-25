@@ -18,7 +18,7 @@
     <link href="<%= post.url %>"/>
     <updated><%= post.published.strftime %>T00:00:00-04:00</updated>
     <id>id:<%= post.identifier %></id>
-    <content type="text/html"><%= post.content %></content>
+    <content type="html"><%= post.content %></content>
   </entry>
  <% end %>
  
