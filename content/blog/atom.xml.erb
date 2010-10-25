@@ -11,9 +11,10 @@
    <email>dan@zeraweb.com</email>
  </author>
  
- <% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).reverse.each do |post| %>
+ <% site.content.blog.posts.pages.select(&:published?).sort_by(&:published).
+  reverse.each do |post| %>
   <entry>
-    <title><%= page.title %></title>
+    <title><%= post.title %></title>
     <link href="<%= post.url %>"/>
     <updated><%= post.published.strftime %></updated>
     <id>id:<%= post.identifier %></id>
