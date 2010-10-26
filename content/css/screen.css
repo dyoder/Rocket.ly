@@ -43,3 +43,4 @@ div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-h
 #twitter p{font-style:italic;}
 div.search input{border-radius:8px;margin-left:10px;padding:6px;border:1px solid silver;font-family:helvetica,sans-serif;font-size:18px;width:140px;font-weight:bold;}
 div.search a{margin-left:10px;color:white;background-color:#111;padding:0.75em;border-radius:8px;font-family:helvetica,sans-serif;font-weight:bold;}
+#comments {float: left; width: width: 20em; border-top: 1px solid silver; border-bottom: 1px solid silver; margin-top: 1em; margin-bottom: 1em; padding: 1em; font-size:0.75em; line-height: 1em;}
