@@ -2,9 +2,10 @@
 title: "Geek Chic: Art Meets Technology At TEDx"
 excerpt: |-
   <div class='inset'><img src="http://farm4.static.flickr.com/3655/3354646519_e4dc11b29a.jpg"/><p class="caption">Cynicism is so easy.</p></div>
+  
   It is easy to be a cynic. It is easy to say, _the hell with it_, and give up. But nothing really interesting ever gets done that way. And certainly part of what I love about TED -- and "Mindshare":mindshare and other events like it -- is that it celebrates perseverance. Some people don't get that. Was it cheesy as hell when Melissa Etheridge joined Muslim rock star "Salman Ahmad":salman, singing _ring the bells of change_, and everone was literally ringing these little bells? Hell, yeah it was. But when you back it up with an organizational behavior case study on building the "Large Hadron Collider":lhc or a talk by a "guy restoring sight to the blind":markh, well, you know what? 
-
-    I'll take the cheese all day long. Because, really, "it's a celebration":lhc-rap.
+  
+  I'll take the cheese all day long. Because, really, "it's a celebration":lhc-rap.
 
   [tedx]http://search.twitter.com/search?q=%23TEDxUSC
   [mindshare]http://mindshare.la/
@@ -18,7 +19,8 @@ author: Dan Yoder
 I've been meaning all week to blog about "TEDx at USC":tedx because my mind was really buzzing afterwards. But, instead, I let the grind of the week get in the way. And it was an ugly grind, the kind that makes you wonder, _what am I doing with my life?_ And looking all the worse for following on the heels of all the hope and possibility celebrated by TED. So now I can't quite recall what it was that I was so excited about in the first place. But I'll try anyway and hopefully it'll be cathartic.
   
 <div class='inset'><img src="http://farm4.static.flickr.com/3655/3354646519_e4dc11b29a.jpg"/><p class="caption">Cynicism is so easy.</p></div>
-  It is easy to be a cynic. It is easy to say, _the hell with it_, and give up. But nothing really interesting ever gets done that way. And certainly part of what I love about TED -- and "Mindshare":mindshare and other events like it -- is that it celebrates perseverance. Some people don't get that. Was it cheesy as hell when Melissa Etheridge joined Muslim rock star "Salman Ahmad":salman, singing _ring the bells of change_, and everone was literally ringing these little bells? Hell, yeah it was. But when you back it up with an organizational behavior case study on building the "Large Hadron Collider":lhc or a talk by a "guy restoring sight to the blind":markh, well, you know what? 
+
+It is easy to be a cynic. It is easy to say, _the hell with it_, and give up. But nothing really interesting ever gets done that way. And certainly part of what I love about TED -- and "Mindshare":mindshare and other events like it -- is that it celebrates perseverance. Some people don't get that. Was it cheesy as hell when Melissa Etheridge joined Muslim rock star "Salman Ahmad":salman, singing _ring the bells of change_, and everone was literally ringing these little bells? Hell, yeah it was. But when you back it up with an organizational behavior case study on building the "Large Hadron Collider":lhc or a talk by a "guy restoring sight to the blind":markh, well, you know what? 
 
 I'll take the cheese all day long. Because, really, "it's a celebration":lhc-rap.
   
