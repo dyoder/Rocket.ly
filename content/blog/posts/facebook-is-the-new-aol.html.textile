@@ -8,6 +8,9 @@ excerpt: |-
     <p class='caption'>Those CDs made handy compacts for the ladies.</p>
   </div>
   Facebook "has already lost literally millions of us":facebook-dropoff around the world. "Millions more would leave":everyone-hates-facebook except that, at the moment, Facebook provides features they can't get anywhere else. As soon as there are decent alternatives, they will leave. Facebook, like MySpace and AOL and many others, will surely hang around for years after that point, but they'll be irrelevant.
+
+  [facebook-dropoff]http://searchengineland.com/has-facebooks-active-user-growth-dropped-42036
+  [everyone-hates-facebook]http://gawker.com/5591650/everyone-uses-facebook-and-everyone-hates-it
 published: 2010-10-25
 layout: blog-post
 ---
@@ -72,7 +75,7 @@ Of course, perhaps they will change their stripes. A lot of talented people have
 
 And _that_ is the last thing I'm going to say about Facebook. I had never intended to be the anti-Facebook guy. I don't like them, sure, and I am concerned about "privacy in social media":economist-privacy, but that hardly defines me. Going forward, I plan to talk more about how we can make the Web itself work better for consumers. After all, that's actually "my job":my-job.
 
-[original-post]/blog/posts/top-ten-reasons-you-should-quit-facebook
+[original-post]/blog/posts/top-ten-reasons-you-should-quit-facebook.html
 [gizmodo-repost]http://gizmodo.com/5530178/top-ten-reasons-you-should-quit-facebook
 [time-magazine]http://mashable.com/2010/05/20/time-magazine-facebook-2/
 [simplified-privacy-controls]http://www.theregister.co.uk/2010/05/25/facebook_privacy_control_revamp/
