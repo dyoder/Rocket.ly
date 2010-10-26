@@ -20,6 +20,7 @@ div.section:last-child{margin-bottom:1em;}
 #blog-archives div.posts{margin-top:2em;padding-top:2em;border-top:2px silver solid;}
 p.subtitle{margin-top:-2em;margin-bottom:3.5em;}
 a,a:visited,a:hover{text-decoration:none;color:#494;}
+.post h2 a { color:inherit;}
 ul#navigation{background-color:#111;padding:0.75em;margin:0;border-radius:8px;}
 ul#navigation li{float:left;list-style:none;padding:0;padding:0 1em;margin:0;color:white;font-family:helvetica,sans-serif;font-weight:bold;text-align:center;}
 ul#navigation li a,ul.navigation li a:visited{color:white;text-decoration:none;}
@@ -43,4 +44,4 @@ div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-h
 #twitter p{font-style:italic;}
 div.search input{border-radius:8px;margin-left:10px;padding:6px;border:1px solid silver;font-family:helvetica,sans-serif;font-size:18px;width:140px;font-weight:bold;}
 div.search a{margin-left:10px;color:white;background-color:#111;padding:0.75em;border-radius:8px;font-family:helvetica,sans-serif;font-weight:bold;}
-#comments {float: left; width: width: 20em; border-top: 1px solid silver; border-bottom: 1px solid silver; margin-top: 1em; margin-bottom: 1em; padding: 1em; font-size:0.75em; line-height: 1em;}
+#comments-disclaimer {float: left; width: width: 20em; border-top: 1px solid silver; border-bottom: 1px solid silver; margin-top: 1em; margin-bottom: 1em; padding: 1em; font-size:0.75em; line-height: 1.1em;}

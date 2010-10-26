@@ -19,5 +19,8 @@ layout: default
 
   <%= content %>
 
+  <% if page.published < Date.parse("2010-10-25") %>
+    <%= page.include 'comments-disclaimer' %>
+  <% end %>
   <%= page.include 'disqus-comment-support' %>
 </div>
