@@ -10,12 +10,12 @@
      <link rel="start" href="/" />
 
   	<% unless page.keywords.nil? %>
-  	  <meta name="keywords" content="{{ page.keywords }}">
+  	  <meta name="keywords" content="<%= page.keywords %>">
   	<% end %>
 	
   	<% unless page.feed.nil? %>
     	<link rel="alternate" type="application/atom+xml" 
-    	  href="{{ page.feed }}" title="Atom feed" />
+    	  href="<%= page.feed %>" title="Atom feed" />
   	<% end %>
 
      <!-- Homepage CSS -->
