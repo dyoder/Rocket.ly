@@ -1,0 +1,4 @@
+pygments: true
+future: false
+permalink: /blog/posts/:title.html
+title: rocket.ly

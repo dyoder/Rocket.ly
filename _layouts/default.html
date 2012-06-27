@@ -2,45 +2,20 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  <head>
-     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-     <title>Rocket.ly: {{ page.title }}</title>
-
-     <link rel="start" href="/" />
-
-	  <meta name="keywords" content="{{ page.keywords }}">
-	
-  	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="Atom feed" />
-
-     <!-- Homepage CSS -->
-     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.1.1/build/cssreset/reset-min.css">
-     <link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" />
-     
-     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
-     <script type='text/javascript' src='/javascript/site.js'></script>
-     {% include google-analytics.html %}
-     
-  </head>
-
+  {% include head.html %}
+  
   <body>
     <div id="page">
       
-      <div id="header">
-        <a href="/"><img class='site banner' src='/images/banner.png'/></a>
-      </div>
-
-      <div class="content {{ page.name }}" id="{{ page.identifier}}">
+      {% include header.html %}
+      
+      <div class="content">
+        {% include navigation.html %}
+        {% include sidebar.html %}
         {{ content }}
       </div>
   
-      <div id="footer">
-        <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
-          <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/></a>
-          This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rocket.ly" property="cc:attributionName" rel="cc:attributionURL">
-            Dan Yoder</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
-              Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. The name &ldquo;rocket.ly&rdquo; was Maia's idea. :-)</p>      
-      </div>
-    </div>
+      {% include footer.html %}
 
   </body>
 

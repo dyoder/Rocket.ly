@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Rocket.ly: Open Source Projects</title>
+
+   <link rel="start" href="/" />
+
+  <meta name="keywords" content="">
+
+	<link rel="alternate" type="application/atom+xml" href="" title="Atom feed" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.1.1/build/cssreset/reset-min.css">
+   <link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" />
+   
+   <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>
+   <script type='text/javascript' src='/javascript/site.js'></script>
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-731705-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+   
+</head>
+
+  <body>
+    <div id="page">
+      
+      <div id="header">
+  <a href="/"><img class='site banner' src='/images/banner.png'/></a>
+</div>
+
+
+      
+      <div class="content">
+
+        <ul id='navigation'>
+  <li><a href='/blog/atom.xml'><img src='/images/feed-icon-14x14.png'>&nbsp;Feed</a></li>
+  <li><a href='/blog/archives.html'>Archives</a></li>
+</ul>
+
+
+
+
+        <div class="post">
+
+          <h1 class='title'>Open Source Projects</h1>
+
+          
+
+          
+
+          <p>Over the years, I&#8217;ve written numerous open source libraries. The main ones are:</p>
+<ul>
+	<li><a href="/waves">Waves</a>, a Ruby framework for Web applications</li>
+</ul>
+<ul>
+	<li><a href="http://datejs.org/">DateJS</a>, an advanced JavaScript date library</li>
+</ul>
+<ul>
+	<li><a href="http://github.com/waves/autocode">Autocode</a>, a Ruby library for on-demand code loading and generation</li>
+</ul>
+<ul>
+	<li><a href="http://github.com/waves/functor">Functor</a>, a Ruby library for pattern-based function / method dispatch</li>
+</ul>
+<p>Note that, oddly, none of the reference implementations for these libraries are actually in my own <a href="http://github.com/dyoder">personal github repo</a>.</p>
+          
+          <div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_identifier = '<%=page.name%>';
+  (function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = 'http://rocketly.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  var disqus_developer = <%= site.status == 'test' ? '1' : '0' %>;
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=rocketly">comments powered by Disqus.</a></noscript>
+
+        </div>
+        
+      </div>
+  
+      <div id="footer">
+  <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+    <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/></a>
+    This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rocket.ly" property="cc:attributionName" rel="cc:attributionURL">
+      Dan Yoder</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+        Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. The name &ldquo;rocket.ly&rdquo; was Maia's idea. :-)</p>      
+</div>
+
+
+  </body>
+
+</html>

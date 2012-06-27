@@ -4,16 +4,18 @@ task :publish do
   
   require 'fog'
 
+  s3 = YAML.load_file("s3.yml")
+  
   # create a connection
   storage = Fog::Storage.new(
     :provider                 => 'AWS',
-    :aws_secret_access_key    => '72W4YjXAo3GtPZC+8R7DG4nh0uqAhONYFdmJkQeZ',
-    :aws_access_key_id        => 'AKIAJVAOTCAX6CIY3UHQ'
+    :aws_secret_access_key    => 's3["secret-key"]',
+    :aws_access_key_id        => 's3["key"]'
   )
   
   bucket = storage.directories.get("www.rocket.ly")
 
-  Dir["/Users/dan/Sites/**/*.*"].each do |path|
+  Dir["_site/**/*.*"].each do |path|
     key = path.split("/")[4..-1].join("/")
     puts "Updating '#{key}'"
     file = bucket.files.get(key)

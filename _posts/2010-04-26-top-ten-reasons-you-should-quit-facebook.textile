@@ -1,20 +1,12 @@
 ---
 title: Top Ten Reasons You Should Quit Facebook
 author: Dan Yoder
-excerpt: |-
-  <div class="inset"><img src="/images/ban_facebook.png" alt="Ban Facebook"/><p class="caption">Let's all ban Facebook!</p></div>
-  After some reflection, I've decided to delete my account on Facebook. I'd like to encourage you to "do the same":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3.
-  
-  This is part altruism and part selfish. The altruism part is that I think Facebook, as a company, is unethical. The selfish part is that I'd like my own social network to migrate away from Facebook so that I'm not missing anything. In any event, here's my "Top Ten" reasons for why you should join me and "many others":http://eu.techcrunch.com/2010/04/23/privacy-issues-google-engineers-leaving-facebook-in-droves/ and "delete your account":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3.
-layout: blog-post
-published: 2010-04-26
+layout: post
 ---
 <div class="inset"><img src="/images/ban_facebook.png" alt="Ban Facebook"/><p class="caption">Let's all ban Facebook!</p>
 </div>
 
-*Update:* _Due to the surprising popularity of this post, I feel I should be absolutely clear about my role as VP of Engineering for a Hollywood-based social media startup, "BorderStylo":http://www.borderstylo.com. The opinions expressed here are purely my own and are not in any way endorsed by my employer. While I do not see our applications as directly competitive to Facebook, nor have I presented them as such, it would be disingenuous not to mention this._
-
-After some reflection, I've decided to delete my account on Facebook. I'd like to encourage you to "do the same":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3. This is part altruism and part selfish. The altruism part is that I think Facebook, as a company, is unethical. The selfish part is that I'd like my own social network to migrate away from Facebook so that I'm not missing anything. In any event, here's my "Top Ten" reasons for why you should join me and "many others":http://eu.techcrunch.com/2010/04/23/privacy-issues-google-engineers-leaving-facebook-in-droves/ and "delete your account":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3.
+After some reflection, I've decided to delete my account on Facebook. I'd like to encourage you to "do the same":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3. This is part altruism and part selfish. The altruism part is that I think Facebook, as a company, is unethical. The selfish part is that I'd like my own social network to migrate away from Facebook so that I'm not missing anything. In any event, here's my "Top Ten" reasons for why you should join me and "many others":http://eu.techcrunch.com/2010/04/23/privacy-issues-google-engineers-leaving-facebook-in-droves/ and "delete your account":https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=3. <!-- more -->
 
 *10. Facebook's "_Terms Of Service_":http://www.facebook.com/policy.php#!/terms.php?r are completely one-sided.* Let's start with the basics. Facebook's _Terms Of Service_ state that not only do they own your data (section 2.1), but if you don't keep it up to date and accurate (section 4.6), they can terminate your account (section 14). You could argue that the terms are just protecting Facebook's interests, and are not in practice enforced, but in the context of their other activities, this defense is pretty weak. As you'll see, there's no reason to give them the benefit of the doubt. Essentially, they see their customers as unpaid employees for crowd-sourcing ad-targeting data. 
 

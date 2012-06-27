@@ -2,23 +2,14 @@
 title: Facebook Is The New AOL
 subtitle: And Equally Doomed
 author: Dan Yoder
-excerpt: |-
-  <div class='inset'>
-    <a href='http://therapysessions.blogspot.com/AOL%20CD.jpg'><img src='/images/aol-cds.jpg'/></a>
-    <p class='caption'>Those CDs made handy compacts for the ladies.</p>
-  </div>
-  Facebook "has already lost literally millions of us":facebook-dropoff around the world. "Millions more would leave":everyone-hates-facebook except that, at the moment, Facebook provides features they can't get anywhere else. As soon as there are decent alternatives, they will leave. Facebook, like MySpace and AOL and many others, will surely hang around for years after that point, but they'll be irrelevant.
-
-  [facebook-dropoff]http://searchengineland.com/has-facebooks-active-user-growth-dropped-42036
-  [everyone-hates-facebook]http://gawker.com/5591650/everyone-uses-facebook-and-everyone-hates-it
-published: 2010-10-25
-layout: blog-post
+layout: post
 ---
+
 <div class='inset'>
   <a href='http://therapysessions.blogspot.com/AOL%20CD.jpg'><img src='/images/aol-cds.jpg'/></a>
   <p class='caption'>Those CDs made handy compacts for the ladies.</p>
 </div>
-"Back in April":original-post, I wrote a little screed declaiming Facebook’s failures around privacy and why they had ultimately led me to delete my account. At the time, my blog was read mostly by friends and co-workers. I just wanted to convince as many of them as possible to follow suit, so that I wouldn’t miss out on any good parties. As it happened, one of them posted it to Hacker News, and, within a few days, it had been "reposted on Gizmodo":gizmodo-repost (where, ironically, it now has nearly 40,000 "likes"), and became one of the top stories on Digg and Reddit. The post was translated into several languages and, at one point, I was even interviewed for the French version of _60 Minutes_. It's safe to say that my little rant has now been read by well over a million people, and, based on the comments and tweets I received, I think a substantial number actually did delete their accounts. (More irony: I think most of my original target audience - my friends and co-workers - remain on Facebook. Which means I'm probably still missing the good parties.)
+"Back in April":original-post, I wrote a little screed declaiming Facebook’s failures around privacy and why they had ultimately led me to delete my account. At the time, my blog was read mostly by friends and co-workers. I just wanted to convince as many of them as possible to follow suit, so that I wouldn’t miss out on any good parties. <!-- more --> As it happened, one of them posted it to Hacker News, and, within a few days, it had been "reposted on Gizmodo":gizmodo-repost (where, ironically, it now has nearly 40,000 "likes"), and became one of the top stories on Digg and Reddit. The post was translated into several languages and, at one point, I was even interviewed for the French version of _60 Minutes_. It's safe to say that my little rant has now been read by well over a million people, and, based on the comments and tweets I received, I think a substantial number actually did delete their accounts. (More irony: I think most of my original target audience - my friends and co-workers - remain on Facebook. Which means I'm probably still missing the good parties.)
 
 I certainly wasn’t the only one writing about this. Many other bloggers and journalists had been on top of this story for months already. (In fact, it was their coverage that made my blog post possible - check out the links in "the post":original-post.) Shortly afterwards, the story broke into the mainstream media, with "Time magazine featuring it as their cover story":time-magazine. Facebook felt compelled to hold a conference call explaining themselves and "rolled out simplified privacy controls":simplified-privacy-controls. This, in turn, suggests that the general frustration with Facebook’s attitude towards privacy had, indeed, begun to hit them where it counts - people had been leaving the site in droves. Although they were still growing, "there was evidence":facebook-dropoff that their growth had dropped off dramatically. More significantly, and very suddenly, all the cool kids "were over Facebook":cool-kids. For a social media start-up, even one with -nearly- over a half-billion users, that is the death knell. Facebook knows this better than anyone, having come into vogue at the expense of MySpace, who, at the time, appeared equally invincible. (Remember when "100 million members":myspace-100m seemed like a lot?)
 

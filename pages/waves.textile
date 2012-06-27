@@ -1,0 +1,39 @@
+---
+title: What Is Waves?
+layout: post
+---
+Waves is an open-source (MIT License) Ruby Web framework for Web applications.
+
+Today's Web applications must embrace a wide variety of scenarios that don't really fit the Sun MVC paradigm that has dominated Web-based application architecture in the past. Think Ajax, Adobe Air, mashups, OpenID, rich-client mobile apps, and so on.
+
+Waves helps you meet these challenges by providing a rich DSL for dealing with HTTP instead of trying to hide it from you. Waves Resource classes are faster and more flexible than Rails-style routing. And our mixin approach provides just the architectural magic that your applications need, and nothing more.
+
+h2. Is Waves Under Active Development?
+
+Yes. Waves is in active use at AT&amp;T (or at least it _was_ last I spoke to anyone about it, which, at this writing was mid-summer, '10) and, of course, at "Border Stylo":http://borderstylo.com.
+
+That said, Waves is turning out to be a precursor to an even more REST-friendly framework that we have yet to announce.
+
+h2.  Try It Out
+
+Waves is currently at version @0.9.3@. (You'll need "gemcutter":gemcutter.)
+
+<script src="http://gist.github.com/524956.js?file=gistfile1.sh"></script>
+
+h2. On The Web
+
+* "Code":http://github.com/waves
+* "Reference":http://waves.rubyforge.org
+* "Discussion":http://groups.google.com/group/rubywaves
+* "Chat: #waves on irc.freenode.net":irc://irc.freenode.net/waves
+
+[gemcutter]http://gemcutter.org
+
+h2. Presentations On Waves
+
+I've given enough talks on Waves now that it seems worthwhile making it easier to find them. Fortunately, "Coby Randquist":http://www.confreaks.com/ has basically been stalking me (or, possibly, vice-versa, hard to say which) and, as a result, all of my talks are available on-line. In order of recent-ness:
+
+* "GoRuCo 2009":http://goruco2009.confreaks.com/30-may-2009-12-50-resource-oriented-architecture-with-waves-dan-yoder.html
+* "LA RubyConf 2009":http://larubyconf2009.confreaks.com/04-apr-2009-10-10-resource-oriented-architecture-and-why-it-matters-and-how-waves-make-it-easier-dan-yoder.html 
+* "RubyConf 2008":http://rubyconf2008.confreaks.com/waves-a-resource-oriented-framework.html
+* "LoneStar RubyConf 2008":http://lsrc2008.confreaks.com/11-dan-yoder-resource-driven-web-development-with-waves.html

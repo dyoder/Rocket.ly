@@ -1,18 +1,11 @@
 ---
 title: The Death Ray And The Lean Startup
 author: Dan Yoder
-excerpt: |-
-  <div class='inset'><img src="/images/death_ray.jpg"/><p class="caption">First, a word from our sponsor, <a href="http://www.wetanz.com/holics/index.php?itemid=742&catid=4">Goliathon</a>, maker of awesome weaponry.</p></div>
-  When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture. Now, this was during the "dot-bomb" era, and so raising money was supposed to be easy. We also had an increasingly vocal contingent of curmudgeons, wondering why we couldn't just earn our money like everyone else, with hard work and everyday construction materials. We were pioneers, forging a new economy from bits and bytes and assembling entire companies by applying mass production to "value chains" where "capital formation" was no different than tightening bolts on a combustion engine! 
-published: 2010-07-28
-layout: blog-post
-
+layout: post
 ---
-_Originally posted at "borderstylo.com":http://borderstylo.com/posts/188-the-death-ray-and-the-lean-startup._
-
 <div class='inset'><img src="/images/death_ray.jpg"/><p class="caption">First, a word from our sponsor, <a href="http://www.wetanz.com/holics/index.php?itemid=742&catid=4">Goliathon</a>, maker of awesome weaponry.</p></div>
 
-When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture. Now, this was during the "dot-bomb" era, and so raising money was supposed to be easy. We also had an increasingly vocal contingent of curmudgeons, wondering why we couldn't just earn our money like everyone else, with hard work and everyday construction materials. We were pioneers, forging a new economy from bits and bytes and assembling entire companies by applying mass production to "value chains" where "capital formation" was no different than tightening bolts on a combustion engine! 
+When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture. Now, this was during the "dot-bomb" era, and so raising money was supposed to be easy. We also had an increasingly vocal contingent of curmudgeons, wondering why we couldn't just earn our money like everyone else, with hard work and everyday construction materials. <!-- more --> We were pioneers, forging a new economy from bits and bytes and assembling entire companies by applying mass production to "value chains" where "capital formation" was no different than tightening bolts on a combustion engine! 
 
 Later, we discovered this was all part of a collective neurosis, much like the one that gripped the mortgage industry a few years later. And like most such Jungian fantasies, it ended tragically for most of us, although a few people cashed out in time to become very, very rich. (Still later, we would discover that we'd actually been right the entire time, when Web 2.0 would sweep most of us back into this brave new world again, but that's another story, or blog post.)
 

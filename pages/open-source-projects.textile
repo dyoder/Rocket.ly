@@ -1,0 +1,19 @@
+---
+title: Open Source Projects
+layout: post
+---
+Over the years, I've written numerous open source libraries. The main ones are:
+
+
+* "Waves":/waves, a Ruby framework for Web applications
+
+* "DateJS":http://datejs.org/, an advanced JavaScript date library
+
+* "Autocode":http://github.com/waves/autocode, a Ruby library for on-demand code loading and generation
+
+* "Functor":http://github.com/waves/functor, a Ruby library for pattern-based function / method dispatch
+
+Note that, oddly, none of the reference implementations for these libraries are actually in my own "personal github repo":http://github.com/dyoder.
+
+
+

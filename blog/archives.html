@@ -1,8 +1,8 @@
 ---
-title: Home
 layout: default
+title: Archives
 ---
-
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts %}
   {% include blog-post-summary.html %}
 {% endfor %}
+

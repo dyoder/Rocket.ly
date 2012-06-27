@@ -1,16 +1,11 @@
 ---
 title: Why You Should Still Quit Facebook
 author: Dan Yoder
-excerpt: |-
-  It's no exaggeration to say I've been overwhelmed by the response to my post on "why you should quit Facebook":/home/2010/4/26/top-ten-reasons-you-should-quit-facebook.html. 
-
-  To those of you who shared your stories about leaving, or took the time to clarify some of the reasons for doing so, thank you. Apparently, I was hardly alone in making the decision to quit, or at least seriously considering it. It has been nothing short of inspiring to read your comments and realize how many of you cared enough to take action, whether it was actually deleting your account or simply taking the time to share your thoughts.
-layout: blog-post
-published: 2010-05-05
+layout: post
 ---
 It's no exaggeration to say I've been overwhelmed by the response to my post on "why you should quit Facebook":/home/2010/4/26/top-ten-reasons-you-should-quit-facebook.html. 
 
-To those of you who shared your stories about leaving, or took the time to clarify some of the reasons for doing so, thank you. Apparently, I was hardly alone in making the decision to quit, or at least seriously considering it. It has been nothing short of inspiring to read your comments and realize how many of you cared enough to take action, whether it was actually deleting your account or simply taking the time to share your thoughts.
+To those of you who shared your stories about leaving, or took the time to clarify some of the reasons for doing so, thank you. Apparently, I was hardly alone in making the decision to quit, or at least seriously considering it. <!-- more --> It has been nothing short of inspiring to read your comments and realize how many of you cared enough to take action, whether it was actually deleting your account or simply taking the time to share your thoughts.
 
 I thought I'd try to respond to some of the more common objections:
 

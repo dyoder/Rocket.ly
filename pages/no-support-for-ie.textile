@@ -1,0 +1,18 @@
+---
+title: Why I Don't Support IE
+layout: post
+---
+This site probably looks wonky in IE. That's because I've never bothered to look at it or test in any IE browser. And I don't plan to.
+
+h2. Enough Wasted Time
+
+Developers throughout the world have wasted untold hours of their lives trying to get their sites to look right in Microsoft's browsers. That's because Microsoft has chosen to go their own way, as always, and seems to take every opportunity to find unique interpretations for every standard. Given that it is straightforward at this point to get a site to look nice in Safari, Chrome, and Firefox, there isn't much doubt that the problem is Microsoft.
+
+h2. It's Up To Microsoft
+
+I don't plan to invest any more time than I absolutely have to (of mine nor anyone else's) dealing with this problem. If and when Microsoft chooses to display Web pages the same way as the rest of the Web browsers do, then my site will naturally look nice in their browsers, too. 
+
+h2. And It's Up To You
+
+Until then, all I am willing to do is to urge readers to use one of those other browsers whenever possible. Hopefully, their constantly declining market share in browser market will encourage them to stop being difficult.
+

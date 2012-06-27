@@ -1,4 +1,5 @@
 /* @override http://localhost/css/screen.css */
+@import url(pygment_trac.css);
 body{font-size:22px;font-family:palatino,georgia,serif;color:#444;background:#fafafc;line-height:1.5em;}
 #page{width:48em;margin:auto;padding-top:2em;}
 div.sidebar{float:right;background-color:#fafafc;width:20em;padding-left:2.5em;margin-left:2.5em;border-left:1px solid silver;border-bottom:1px solid silver;margin-bottom:1em;font-size:16px;line-height:1.5em;}
