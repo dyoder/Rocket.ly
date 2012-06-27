@@ -1,0 +1,55 @@
+---
+title: Why You Should Still Quit Facebook
+author: Dan Yoder
+excerpt: |-
+  It's no exaggeration to say I've been overwhelmed by the response to my post on "why you should quit Facebook":/home/2010/4/26/top-ten-reasons-you-should-quit-facebook.html. 
+
+  To those of you who shared your stories about leaving, or took the time to clarify some of the reasons for doing so, thank you. Apparently, I was hardly alone in making the decision to quit, or at least seriously considering it. It has been nothing short of inspiring to read your comments and realize how many of you cared enough to take action, whether it was actually deleting your account or simply taking the time to share your thoughts.
+layout: blog-post
+published: 2010-05-05
+---
+It's no exaggeration to say I've been overwhelmed by the response to my post on "why you should quit Facebook":/home/2010/4/26/top-ten-reasons-you-should-quit-facebook.html. 
+
+To those of you who shared your stories about leaving, or took the time to clarify some of the reasons for doing so, thank you. Apparently, I was hardly alone in making the decision to quit, or at least seriously considering it. It has been nothing short of inspiring to read your comments and realize how many of you cared enough to take action, whether it was actually deleting your account or simply taking the time to share your thoughts.
+
+I thought I'd try to respond to some of the more common objections:
+
+*What's the big deal? I don't care if someone has access to my photos or status updates.*
+
+Tens of millions of people provided personal information to Facebook with the understanding that this information was being shared only within their social network. Then Facebook changed the rules and this information was unexpectedly shared with perfect strangers. That is, simply stated, a profound invasion of privacy. In the United States, the Fourth and Ninth Amendments to the Constitution, along with numerous landmark Supreme Court cases, have established privacy as a fundamental right.
+
+Consider the example of the government tapping your phones. You conduct phone conversations thinking that they're just between you and the person you're speaking with. The government can't tap your phone and listen in on the conversation without a warrant. This is because your privacy is a right protected by law.
+
+Now take this example a step further, and suppose your cell phone provider one day sends you an updated privacy policy that states that they can tap your phone any time they want. Would you still use their service? Of course not! And, in fact, they won't do this because it's actually against the law for them to do so. In other words, it's such a big deal, we passed laws to prevent it from happening.
+
+Social networks involve not only voice conversations, but images, video, links, and text. Not only that, but there are frequently many recipients of this data. According to Facebook's original privacy policy, these rich "conversations" were supposed to be private. Later, they changed their minds. This certainly breaks the spirit, if not the letter, of privacy laws, not only in the U.S., but all over the world.
+
+I haven't even touched on the various reasons people might want to keep these conversations private. They range from the profound, like avoiding workplace discrimination or protecting political dissidents, to the banal, like cheating on your wife or avoiding an abusive husband. But it really doesn't matter. It is not for any of us to decide on behalf of someone else what information should be considered private.
+
+Most people just want control over what they're sharing and with whom. They have a right to make that choice. And many Facebook members _did_ make that choice, only to find that, after the fact, Facebook made a different choice on their behalf. In the telecom industry, that's illegal. Yet in the social networking space, where far more information is being shared, it's not a big deal?
+
+*Just don't share your personal information. Or, if you do, don't use any applications and learn to use the privacy settings.*
+
+Maybe that works for you, you fabulous geek, you. But are all of your family and friends as clever as you are? What are the odds that the majority of Facebook members will do these things?
+
+*I don't trust Facebook, either, so I just use fake data.*
+
+Uh, okay. Somewhere between not sharing personal information and actually using fake data, we cross a line into "what's the point?"
+
+*Facebook works just fine for marketing purposes.*
+
+That's true. Of course, that's true for any social network with a critical mass of people on it. But it's a circular justification. Once people switch to another network, it's useless for marketing.
+
+*I'd leave except that I have too many family and friends still on there.*
+
+This is a tough one. I wrote my original post for exactly this reason - to try and convince them to leave. I felt that by continuing to use Facebook, I was passively endorsing it.
+
+*I'd leave except that there aren't any real alternatives.*
+
+I am not aware of _any_ good solutions for privacy in social media. Facebook has expressly moved away from providing one. But there are plenty of good opt-out solutions. Twitter works fine for status updates. For photos, we've had Flickr for years. For video, YouTube. For link sharing, Digg. I've picked these because they are all independent companies, but there are dozens of solutions for sharing social media. 
+
+The nice thing about decentralizing control over your data is that you aren't at the mercy of any one company. In fact, you could make a pretty good argument that the Web itself is the _real_ social network.
+
+*If the allegations against Zuckerberg are "dated and unproven," they're irrelevant.*
+
+I'm not trying Mr.Zuckerberg in court, I'm selecting a service provider. The burden of proof is on Facebook here. If the head of a major bank is accused of embezzling or a teacher is accused of molesting a student, they're usually summarily fired. They may have been entirely innocent, but the standard for holding a position of responsibility is much higher than that for simply not going to jail. Mr.Zuckerberg has been accused of reading people's private emails, and he runs a social networking company. Also, keep in mind, Facebook _also_ settled out of court in a related case for a significant sum of money, lending some weight to the allegations. If Facebook and Mr.Zuckerberg wanted to clearly establish their innocence, they could have chosen not to settle out of court.

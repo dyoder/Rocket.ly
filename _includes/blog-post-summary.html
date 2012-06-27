@@ -1,0 +1,13 @@
+{% for post in site.posts %}
+  <div class="post">
+    <h2><a href='{{ post.url }}'>{{ post.title }}</a></h2>
+    <p class='byline'>
+      <span class='author'>{{ post.author }}</span>
+      <span class='published'>{{ post.published }}</span>
+    </p>
+    <div class="excerpt">
+      {{ post.excerpt }}<p><a class="title" href="{{ post.url }}">Read more &#8230;</a></p>
+    </div>
+  </div>
+{% endfor %}
+
