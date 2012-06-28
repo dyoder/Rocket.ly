@@ -5,9 +5,9 @@ author: Dan Yoder
 layout: post
 ---
 
-<div class='inset'>
+<div class="thumbnail span3 pull-left">
   <a href='http://therapysessions.blogspot.com/AOL%20CD.jpg'><img src='/images/aol-cds.jpg'/></a>
-  <p class='caption'>Those CDs made handy compacts for the ladies.</p>
+  <p class='small'>Those CDs made handy compacts for the ladies.</p>
 </div>
 "Back in April":original-post, I wrote a little screed declaiming Facebook’s failures around privacy and why they had ultimately led me to delete my account. At the time, my blog was read mostly by friends and co-workers. I just wanted to convince as many of them as possible to follow suit, so that I wouldn’t miss out on any good parties. <!-- more --> As it happened, one of them posted it to Hacker News, and, within a few days, it had been "reposted on Gizmodo":gizmodo-repost (where, ironically, it now has nearly 40,000 "likes"), and became one of the top stories on Digg and Reddit. The post was translated into several languages and, at one point, I was even interviewed for the French version of _60 Minutes_. It's safe to say that my little rant has now been read by well over a million people, and, based on the comments and tweets I received, I think a substantial number actually did delete their accounts. (More irony: I think most of my original target audience - my friends and co-workers - remain on Facebook. Which means I'm probably still missing the good parties.)
 

@@ -2,3 +2,4 @@ pygments: true
 future: false
 permalink: /blog/posts/:title.html
 title: rocket.ly
+feed: http://www.rocket.ly/blog/atom.xml
