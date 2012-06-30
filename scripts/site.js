@@ -1,19 +1,31 @@
 $(document).ready( function() {
-	addNavigation();
+  convertImagesToInsets();
 	addTwitterUpdates();
 	addSearch();
 	setMinHeight();
 	$(window).resize(setMinHeight);
 });
 
-var addNavigation = function() {
-	var navigation = $('#navigation');
-	navigation.detach().prependTo("#header").css({"float": "right", "margin-right": "1em", "margin-top": "2.5em"});
-}
+var convertImagesToInsets = function() {
+  $(".post img").each(function(index,image) {
+    var image = $(image);
+    var link = image.parent("a");
+    var el;
+    
+    if (link.size() > 0) {
+      el = link.wrap("<div class='inset'/>");
+    } else {
+      el = image.wrap("<div class='inset'/>")
+    }
+    
+    el.after("<p class='caption'>"+image.attr("alt")+"</p>");
+  });
+};
 
 var showTweets = function (tweets) {
 	var e = $('#twitter');
-	for ( var i = 0; i < 3 ; i++ ) {
+	var j = tweets.length > 3 ? 3: tweets.length;
+	for ( var i = 0; i < j ; i++ ) {
 		e.append("<p>" + tweets[i].text + "</p>");
 	}
 };

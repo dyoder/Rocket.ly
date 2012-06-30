@@ -1,48 +1,71 @@
 /* @override http://localhost/css/screen.css */
 @import url(pygment_trac.css);
-body{font-size:22px;font-family:palatino,georgia,serif;color:#444;background:#fafafc;line-height:1.5em;}
+
+/* main page */
+body{font-size:15pt;font-family:palatino,georgia,serif;color:#444;background:#fafafc;line-height:1.5em;}
 #page{width:48em;margin:auto;padding-top:2em;}
-div.sidebar{float:right;background-color:#fafafc;width:20em;padding-left:2.5em;margin-left:2.5em;border-left:1px solid silver;border-bottom:1px solid silver;margin-bottom:1em;font-size:16px;line-height:1.5em;}
 p,ul,ol,h1,h2,h3,h4,h5{margin-top:0;margin-bottom:1em;}
 h1,h2,h3,h4,h5{font-family:helvetica,sans-serif;line-height:1.15em;color:#222;}
 h1{font-size:2.5em;margin-bottom:0.5em;}
-div.sidebar h1{font-size:2em;}
 h2{font-size:1.5em;}
-div.sidebar h2{font-size:1em;}
 h3{font-size:1em;font-weight:bold;}
-div.sidebar h3,div.sidebar h3{font-size:0.75em;}
 h4{font-size:1em;}
-li{list-style-type:square;list-style-position:outside;margin-left:1em;margin-bottom:0.5em;}
-h1.site.title{font-family:palatino,georgia,serif;font-size:4.5em;letter-spacing:0.05em;color:#111;}
-h2.subtitle{margin-top:-0.75em;font-size:1.5em;font-style:italic;}
-img.site.banner{font-size:4.5em;margin-bottom: 0.5em;}
-div.section{padding-bottom:1em;margin-bottom:2em;}
-div.section:last-child{margin-bottom:1em;}
-#blog-archives div.posts{margin-top:2em;padding-top:2em;border-top:2px silver solid;}
-p.subtitle{margin-top:-2em;margin-bottom:3.5em;}
 a,a:visited,a:hover{text-decoration:none;color:#494;}
-.post h2 a { color:inherit;}
-ul#navigation{background-color:#111;padding:0.75em;margin:0;border-radius:8px;}
+li{list-style-type:square;list-style-position:outside;margin-left:1em;margin-bottom:0.5em;}
+strong{font-weight:bold; font-style:inherit;}
+em{font-style:italic; font-weight:inherit;}
+
+/* page header */
+h1.site.title{font-family:palatino,georgia,serif;font-size:4.5em;letter-spacing:0.05em;color:#111;}
+img.site.banner{font-size:4.5em;margin-bottom: 0.5em;}
+h2.subtitle{margin-top:-0.75em;font-size:1.5em;font-style:italic;}
+
+/* pages navigation */
+
+ul#navigation{background-color:#111;padding:0.75em;border-radius:8px;float: right;margin:0; margin-right: 1em; margin-top: 2.5em;}
 ul#navigation li{float:left;list-style:none;padding:0;padding:0 1em;margin:0;color:white;font-family:helvetica,sans-serif;font-weight:bold;text-align:center;}
 ul#navigation li a,ul.navigation li a:visited{color:white;text-decoration:none;}
 ul#navigation li a:hover{color:#ded;}
+
+/* sidebar */
+div.sidebar{float:right;background-color:#fafafc;width:20em;padding-left:2.5em;margin-left:2.5em;margin-bottom:1em;font-size:12pt;line-height:1.5em;}
+div.sidebar h1{font-size:2em;}
+div.sidebar h2{font-size:1em;}
+div.sidebar h3,div.sidebar h3{font-size:0.75em;}
+div.sidebar div.excerpt{font-size:15px;font-style:italic;line-height:1.4em;}
+
+/* footer */
+div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-height:1em;}
+
+/* sections, subtitles, bylines, excerpts, insets */
+
+div.section{padding-bottom:1em;margin-bottom:2em;}
+div.section:last-child{margin-bottom:1em;}
+p.subtitle{margin-top:-2em;margin-bottom:3.5em;}
 p.byline{font-family:helvetica,sans-serif;font-size:15px;margin-top:-2em;margin-bottom:2em;}
 p.byline span.author{font-weight:bold;}
-div.excerpt{margin-bottom:1.5em;padding-bottom:1em;border-bottom:1px solid silver;}
-div.sidebar div.excerpt{font-size:15px;font-style:italic;line-height:1.4em;}
-div.inset{float:right;margin-left:1em;margin-bottom:1em;padding:0.5em;border:1px solid gray;width:18em;}
+div.excerpt{margin-bottom:1.5em;padding-bottom:1em;}
+div.inset{float:right;margin-left:1em;margin-bottom:0.25em;padding:0.5em;border:1px solid gray;width:18em;}
 div.inset img{margin:0;padding:0;width:18em;}
 div.inset p.caption{font-size:14px;font-family:helvetica,san-serif;font-weight:bold;margin:0;padding:0 ;line-height:1.5em;}
 div.excerpt div.inset{float:left;margin-left:0;margin-right:1em;width:10em;line-height:0;}
 div.excerpt p.caption{display:none;}
 div.excerpt div.inset img{width:10em;}
+
+/* specialized styles */
+
+#blog-archives div.posts{margin-top:2em;padding-top:2em;}
+
+.post h2 a { color:inherit;}
+
 div.avatar{float:right;}
 div.avatar p{margin:0;}
 div.avatar img{padding:0.25em;margin-left:1em;border:1px solid #333;height:80px;width:80px;}
-strong{font-weight:bold; font-style:inherit;}
-em{font-style:italic; font-weight:inherit;}
-div#footer{margin-top:3em;font-size:14px;font-family:helvetica,sans-serif;line-height:1em;}
+
 #twitter p{font-style:italic;}
+
 div.search input{border-radius:8px;margin-left:10px;padding:6px;border:1px solid silver;font-family:helvetica,sans-serif;font-size:18px;width:140px;font-weight:bold;}
 div.search a{margin-left:10px;color:white;background-color:#111;padding:0.75em;border-radius:8px;font-family:helvetica,sans-serif;font-weight:bold;}
+
 #comments-disclaimer {float: left; width: width: 20em; border-top: 1px solid silver; border-bottom: 1px solid silver; margin-top: 1em; margin-bottom: 1em; padding: 1em; font-size:0.75em; line-height: 1.1em;}
+

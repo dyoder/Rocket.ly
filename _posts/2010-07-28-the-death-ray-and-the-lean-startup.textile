@@ -3,7 +3,7 @@ title: The Death Ray And The Lean Startup
 author: Dan Yoder
 layout: post
 ---
-<div class='inset'><img src="/images/death_ray.jpg"/><p class="caption">First, a word from our sponsor, <a href="http://www.wetanz.com/holics/index.php?itemid=742&catid=4">Goliathon</a>, maker of awesome weaponry.</p></div>
+!/images/death_ray.jpg(First, a word from our sponsor, <a href="http://www.wetanz.com/holics/index.php?itemid=742&catid=4">Goliathon</a>, maker of awesome weaponry.)!
 
 When I was but a fledgling entrepreneur, like most fledgling entrepreneurs, I became frustrated with the process of trying to raise money for my fledgling venture. Now, this was during the "dot-bomb" era, and so raising money was supposed to be easy. We also had an increasingly vocal contingent of curmudgeons, wondering why we couldn't just earn our money like everyone else, with hard work and everyday construction materials. <!-- more --> We were pioneers, forging a new economy from bits and bytes and assembling entire companies by applying mass production to "value chains" where "capital formation" was no different than tightening bolts on a combustion engine! 
 
