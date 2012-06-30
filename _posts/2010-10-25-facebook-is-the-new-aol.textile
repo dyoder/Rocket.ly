@@ -22,7 +22,7 @@ In other words, the social Web exists, but it’s kind of a pain to use.
 
 h2. People Search: It Can't Be That Hard
 
-!http://www.empireonline.com/100-greatest-movie-characters/default.asp?c=25'><img src='/images/yoda.jpg(When you search for me, this guy comes up. Not really, but he might as well.)!
+!/images/yoda.jpg(When you search for me, this guy comes up. Not really, but he might as well.)!:http://www.empireonline.com/100-greatest-movie-characters/default.asp?c=25
 
 But there's more. One of the most common responses I got from people to my anti-Facebook rant was that Facebook made it easy to keep in touch with people. Even I will admit that I did end up reconnecting with a few old friends, which was nice. (Of course, for every one of them, there were a dozen friend-requests from people I barely remembered, but, hey, nothing's perfect.) People gave me the same answer several years ago when I'd ask them what they saw in MySpace. "People can find me," was the most common answer. And it's true. If I "search for a person":search-for-dan on Google or any other search engine, I usually get an indecipherable tangle of results, unless they happen to have a really uncommon name, are really well-known, or really good at SEO. Even then, it still takes work to piece together anything that looks like a profile. The search engines have left a giant hole in the search engine space, and, to this day, they don’t seem to even be aware of the problem. What Facebook provides is "people search" that works.
 
