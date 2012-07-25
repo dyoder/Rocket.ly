@@ -1,5 +1,5 @@
 ---
-title: NCAA Too Harsh?
+title: Was The NCAA Too Harsh?
 subtitle: "Hardly. Penn State should just stop playing football."
 author: Dan Yoder
 layout: post
