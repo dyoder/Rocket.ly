@@ -1,4 +1,4 @@
-pygments: true
+highligher: rouge
 future: false
 permalink: /blog/posts/:title.html
 title: rocket.ly
